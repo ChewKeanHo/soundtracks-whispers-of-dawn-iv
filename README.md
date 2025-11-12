@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Whispers of Dawn IV | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Few more to go and we are on track for varieties usage. Here's another Celtic
+New Age soundtrack for the vibes.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/04_Whispers-of-Dawn-IV.mp3
+  Size: 11083776        Blocks: 21648      IO Block: 4096   regular file
+Device: 253,2   Inode: 40764141    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-12 18:09:02.107885511 +0800
+Modify: 2025-11-12 17:39:00.211716516 +0800
+Change: 2025-11-12 17:39:00.211716516 +0800
+ Birth: 2025-07-31 06:37:54.037313156 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-07-31
+On YouTube since : 2025-10-26
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=6NhqPtnYf7Q)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Whispers of Dawn IV
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-whispers-of-dawn-iv
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
